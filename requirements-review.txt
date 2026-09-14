@@ -1,0 +1,3 @@
+# Optional dependencies for yaoyao_review; danmaku tools use the standard library.
+numpy>=1.24,<3
+Pillow>=10,<13

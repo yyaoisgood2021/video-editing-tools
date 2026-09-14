@@ -1,0 +1,44 @@
+__pycache__/
+*.py[cod]
+tools/
+.ass-render-*/
+*.mov
+alpha_check.png
+
+# Python environments and developer tools
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Local credentials and workstation settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large source media and reproducible analysis outputs stay local
+*.mp4
+*.mkv
+*.avi
+*.npy
+*.npz
+outputs/
+yaoyao_review/*.png
+yaoyao_review/*.jpg
+yaoyao_review/candidate.json
+yaoyao_review/collage_frames/
+
+# Editing-session material (the curated sample is in examples/)
+/danmaku.txt
+/danmaku.ass
+/danmaku_preview.png
+/*.png

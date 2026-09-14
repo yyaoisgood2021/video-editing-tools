@@ -1,0 +1,22 @@
+# UTF-8: source timestamp followed by whitespace and comment text.
+# These times guide order; the script retimes all entries into your window.
+0.0 前方高能
+0.5 准备好了吗
+1.0 来了来了
+1.4 等这一刻很久了
+1.8 注意看这里
+2.0 卧槽！
+2.1 哈哈哈哈哈
+2.2 这也太强了吧
+2.3 666666
+2.4 名场面打卡
+2.5 再看一遍
+2.6 全体起立
+2.7 笑死我了
+2.8 这操作绝了
+3.0 好家伙
+3.2 弹幕护体
+3.5 细节拉满
+4.0 神同步
+4.5 太精彩了
+5.0 下次一定

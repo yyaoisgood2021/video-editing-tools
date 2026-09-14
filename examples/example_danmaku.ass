@@ -1,0 +1,34 @@
+﻿[Script Info]
+Title: Simulated danmaku
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Danmaku,Microsoft YaHei,42,&H00FFFFFF,&H00FFFFFF,&H00000000,&HFF000000,0,0,0,0,100,100,0,0,1,2,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.14,0:00:19.77,Danmaku,,0,0,0,,{\an7\q2\move(1924,515.86,-197.60,515.86)\clip(0,0,1920,1080)}前方高能
+Dialogue: 0,0:00:13.75,0:00:20.53,Danmaku,,0,0,0,,{\an7\q2\move(1924,325.05,-245.60,325.05)\clip(0,0,1920,1080)}准备好了吗
+Dialogue: 0,0:00:14.29,0:00:21.07,Danmaku,,0,0,0,,{\an7\q2\move(1924,74.90,-245.60,74.90)\clip(0,0,1920,1080)}哈哈哈哈哈
+Dialogue: 0,0:00:14.35,0:00:20.98,Danmaku,,0,0,0,,{\an7\q2\move(1924,387.01,-197.60,387.01)\clip(0,0,1920,1080)}来了来了
+Dialogue: 0,0:00:14.61,0:00:21.39,Danmaku,,0,0,0,,{\an7\q2\move(1924,137.69,-245.60,137.69)\clip(0,0,1920,1080)}名场面打卡
+Dialogue: 0,0:00:14.90,0:00:21.68,Danmaku,,0,0,0,,{\an7\q2\move(1924,8.36,-245.60,8.36)\clip(0,0,1920,1080)}这操作绝了
+Dialogue: 0,0:00:14.96,0:00:21.59,Danmaku,,0,0,0,,{\an7\q2\move(1924,452.43,-197.60,452.43)\clip(0,0,1920,1080)}再看一遍
+Dialogue: 0,0:00:15.52,0:00:22.30,Danmaku,,0,0,0,,{\an7\q2\move(1924,197.54,-245.60,197.54)\clip(0,0,1920,1080)}注意看这里
+Dialogue: 0,0:00:15.59,0:00:22.66,Danmaku,,0,0,0,,{\an7\q2\move(1924,326.98,-338.40,326.98)\clip(0,0,1920,1080)}等这一刻很久了
+Dialogue: 0,0:00:15.97,0:00:22.46,Danmaku,,0,0,0,,{\an7\q2\move(1924,135.11,-152.80,135.11)\clip(0,0,1920,1080)}卧槽！
+Dialogue: 0,0:00:16.29,0:00:22.92,Danmaku,,0,0,0,,{\an7\q2\move(1924,577.55,-197.60,577.55)\clip(0,0,1920,1080)}全体起立
+Dialogue: 0,0:00:16.81,0:00:23.30,Danmaku,,0,0,0,,{\an7\q2\move(1924,200.90,-152.80,200.90)\clip(0,0,1920,1080)}好家伙
+Dialogue: 0,0:00:16.84,0:00:23.49,Danmaku,,0,0,0,,{\an7\q2\move(1924,262.99,-204.00,262.99)\clip(0,0,1920,1080)}666666
+Dialogue: 0,0:00:16.99,0:00:23.91,Danmaku,,0,0,0,,{\an7\q2\move(1924,327.18,-290.40,327.18)\clip(0,0,1920,1080)}这也太强了吧
+Dialogue: 0,0:00:17.35,0:00:23.98,Danmaku,,0,0,0,,{\an7\q2\move(1924,513.57,-197.60,513.57)\clip(0,0,1920,1080)}细节拉满
+Dialogue: 0,0:00:17.36,0:00:23.85,Danmaku,,0,0,0,,{\an7\q2\move(1924,450.90,-152.80,450.90)\clip(0,0,1920,1080)}神同步
+Dialogue: 0,0:00:17.62,0:00:24.25,Danmaku,,0,0,0,,{\an7\q2\move(1924,71.94,-197.60,71.94)\clip(0,0,1920,1080)}笑死我了
+Dialogue: 0,0:00:17.69,0:00:24.32,Danmaku,,0,0,0,,{\an7\q2\move(1924,197.09,-197.60,197.09)\clip(0,0,1920,1080)}下次一定
+Dialogue: 0,0:00:17.79,0:00:24.42,Danmaku,,0,0,0,,{\an7\q2\move(1924,575.97,-197.60,575.97)\clip(0,0,1920,1080)}弹幕护体
+Dialogue: 0,0:00:18.36,0:00:24.99,Danmaku,,0,0,0,,{\an7\q2\move(1924,260.03,-197.60,260.03)\clip(0,0,1920,1080)}太精彩了
